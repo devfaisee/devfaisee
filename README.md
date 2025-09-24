@@ -1,65 +1,54 @@
-<!-- Banner: Animated SVG -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1A1A1AFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Faisee+%F0%9F%91%8B;Software+Engineer+%7C+Open+Source+Lover;Building+cool+things+with+code!" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<!-- Minimal About Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Artist-%F0%9F%8E%A8-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%A1-yellow?style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=100&section=header&text=Faisee%20⚡%20Code%20Artist&fontColor=fff&fontSize=30&animation=fadeIn&fontAlignY=55"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-Hi, I'm **Faisee**.<br>
-I'm passionate about crafting clean, efficient, and impactful code.<br>
-I love building projects that solve real problems & make life easier.
+### 👋 Hi, I’m Faisee
+> *“Code is my canvas, logic is my paint.”*
+
+I’m a **Software Engineer** who builds things that are **fast, clean, and meaningful**.  
+Whether it’s **web apps, open-source tools, or pixel-perfect UIs**, I love turning ideas into reality.  
+Always shipping. Always learning. Always leveling up. 🚀  
 
 ---
 
-### 🚀 Tech Stack
+### 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,python,html,css,git,github" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
+### 📊 GitHub Power
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devfaisee&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devfaisee&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devfaisee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devfaisee&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 🏆 Featured Projects
-
+### 🚀 Highlighted Creations
 <p align="center">
   <a href="https://github.com/devfaisee/portfolio-by-faisee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfaisee&repo=portfolio-by-faisee&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfaisee&repo=portfolio-by-faisee&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/devfaisee/weatharia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfaisee&repo=weatharia&theme=github_dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/devfaisee/portfolio-tailwind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfaisee&repo=portfolio-tailwind&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devfaisee&repo=weatharia&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 ---
 
+### ⚡ Fun Side
+- 🎨 I treat **code like art**.  
+- 🌍 Love contributing to **open source**.  
+- 🧠 Current obsession: **Next.js + AI integrations**.  
+- ☕ Survive on coffee & late-night debugging.  
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 </p>
