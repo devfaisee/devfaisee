@@ -12,7 +12,7 @@ Replace placeholders (Spotify UID, social links, email) where noted.
   <img alt="FAISEE — Code as Art" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=160&section=header&text=FAISEE%20—%20CODE%20AS%20ART&fontSize=44&fontColor=FFFFFF&animation=fadeIn" />
   <br/>
   <sub style="color:#ACB3BD">
-    Minimal. Intentional. Product-minded. — Apple-like clarity with Vercel-grade aura.
+    
   </sub>
 </p>
 
